@@ -51,32 +51,32 @@ li img {
     -webkit-animation-iteration-count: infinite;
             animation-iteration-count: infinite; }
 
-/* line 1, /Users/piecioshka/projects/test-css-slider/app/styles/scss/anim/simple.scss */
+/* line 4, /Users/piecioshka/projects/test-css-slider/app/styles/scss/anim/advanced.scss */
 li img {
     -webkit-animation-duration: 10s;
             animation-duration: 10s; }
 
-/* line 5, /Users/piecioshka/projects/test-css-slider/app/styles/scss/anim/simple.scss */
+/* line 9, /Users/piecioshka/projects/test-css-slider/app/styles/scss/anim/advanced.scss */
 li:nth-child(1) img {
     -webkit-animation-delay: 0s;
             animation-delay: 0s; }
 
-/* line 9, /Users/piecioshka/projects/test-css-slider/app/styles/scss/anim/simple.scss */
+/* line 9, /Users/piecioshka/projects/test-css-slider/app/styles/scss/anim/advanced.scss */
 li:nth-child(2) img {
     -webkit-animation-delay: 2s;
             animation-delay: 2s; }
 
-/* line 13, /Users/piecioshka/projects/test-css-slider/app/styles/scss/anim/simple.scss */
+/* line 9, /Users/piecioshka/projects/test-css-slider/app/styles/scss/anim/advanced.scss */
 li:nth-child(3) img {
     -webkit-animation-delay: 4s;
             animation-delay: 4s; }
 
-/* line 17, /Users/piecioshka/projects/test-css-slider/app/styles/scss/anim/simple.scss */
+/* line 9, /Users/piecioshka/projects/test-css-slider/app/styles/scss/anim/advanced.scss */
 li:nth-child(4) img {
     -webkit-animation-delay: 6s;
             animation-delay: 6s; }
 
-/* line 21, /Users/piecioshka/projects/test-css-slider/app/styles/scss/anim/simple.scss */
+/* line 9, /Users/piecioshka/projects/test-css-slider/app/styles/scss/anim/advanced.scss */
 li:nth-child(5) img {
     -webkit-animation-delay: 8s;
             animation-delay: 8s; }
