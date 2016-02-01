@@ -4,6 +4,10 @@
 
 ## Jak to działa?
 
+Demo jest dostępne tutaj: http://piecioshka.github.io/test-css-slider/
+
+## Budowa 
+
 HTML:
 
  * mamy zdefiniowaną listę elementów, które są jeden na drugim - warstwa na warstwie (drugi przykrywa pierwszy).
@@ -22,7 +26,7 @@ Różnica między `simple.scss` oraz `advanced.scss` jest taka, że w tym drugim
 tylko jest użyta pętla oraz zmienne (jest to dostępne w Sass-ie).<br/>
 Więcej o Sass http://theSassway.com/intermediate/if-for-each-while
 
-**UWAGA: przy innej liczbie obrazków niż 5, warto jest zaktualizować definicję animacji `fadeInOut` w pliku `common.scss`** 
+**UWAGA: przy innej liczbie obrazków niż 5, warto zaktualizować definicję animacji `fadeInOut` w pliku `common.scss`** 
 
 ## Zadania projektu
 
