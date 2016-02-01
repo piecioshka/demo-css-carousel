@@ -41,6 +41,6 @@ npm run deploy  # wrzuca do branch gh-pages i pushuje na serwer
 Branch `gh-pages` jest automatycznie nadpisywane, gdy zrobimy deploy aplikacji.<br/>
 Nie wolno w nim prowadzić prac projektowych!
 
-## License 
+## Licencja
 
 [The MIT License](http://piecioshka.mit-license.org) @ 2016
