@@ -1,0 +1,12 @@
+$imagesCount: 5;
+$animDuration: $imagesCount * 2;
+
+li img {
+    animation-duration: $animDuration + s;
+}
+
+@for $i from 0 to $imagesCount {
+    li:nth-child(#{$i + 1}) img {
+        animation-delay: #{$i * 2}s;
+    }
+}

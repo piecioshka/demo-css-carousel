@@ -1,3 +1,17 @@
 {
-    "private": true
+    "private": true,
+    "name": "test-css-slider",
+    "scripts": {
+        "build": "node tasks/build.js",
+        "watch": "node tasks/watch.js",
+        "deploy": "node tasks/deploy.js"
+    },
+    "devDependencies": {
+        "autoprefixer": "^6.3.1",
+        "fs-extra": "^0.26.5",
+        "gh-pages": "^0.9.0",
+        "node-sass": "^3.4.2",
+        "postcss": "^5.0.14",
+        "watch": "^0.17.1"
+    }
 }
