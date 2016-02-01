@@ -1,0 +1,23 @@
+li img {
+    animation-duration: 10s;
+}
+
+li:nth-child(1) img {
+    animation-delay: 0s;
+}
+
+li:nth-child(2) img {
+    animation-delay: 2s;
+}
+
+li:nth-child(3) img {
+    animation-delay: 4s;
+}
+
+li:nth-child(4) img {
+    animation-delay: 6s;
+}
+
+li:nth-child(5) img {
+    animation-delay: 8s;
+}
