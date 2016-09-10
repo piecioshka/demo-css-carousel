@@ -1,6 +1,7 @@
 {
     "private": true,
-    "name": "test-css-slider",
+    "name": "concept-css-slider",
+    "version": "0.0.0",
     "scripts": {
         "build": "node tasks/build.js",
         "watch": "node tasks/watch.js",

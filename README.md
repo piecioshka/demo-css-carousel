@@ -1,10 +1,10 @@
-# test-css-slider
+# concept-css-slider
 
-> :ledger: Testowa aplikacja slidera w czystym CSS
+> :fish: Testowa aplikacja slidera w czystym CSS
 
 ## Jak to działa?
 
-Demo jest dostępne tutaj: http://piecioshka.github.io/test-css-slider/
+Demo jest dostępne tutaj: http://piecioshka.github.io/concept-css-slider/
 
 ## Budowa 
 
