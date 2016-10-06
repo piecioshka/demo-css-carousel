@@ -31,9 +31,9 @@ Więcej o Sass http://theSassway.com/intermediate/if-for-each-while
 ## Zadania projektu
 
 ```bash
-npm run build   # buduje nowy plik main.css
-npm run watch   # śledzi zmiany na plikach *.scss i buduje main.css
-npm run deploy  # wrzuca do branch gh-pages i pushuje na serwer
+$ npm run build   # buduje nowy plik main.css
+$ npm run watch   # śledzi zmiany na plikach *.scss i buduje main.css
+$ npm run deploy  # wrzuca do branch gh-pages i pushuje na serwer
 ```
 
 ## Kontrybucje
