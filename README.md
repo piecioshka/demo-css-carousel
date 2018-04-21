@@ -4,7 +4,7 @@
 
 ## Jak to działa?
 
-Demo jest dostępne tutaj: http://piecioshka.github.io/concept-css-slider/
+Demo jest dostępne tutaj: http://piecioshka.github.io/concept-css-carousel/
 
 ## Budowa 
 
