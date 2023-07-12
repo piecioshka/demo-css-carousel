@@ -1,12 +1,12 @@
-# concept-css-slider
+# demo-css-carousel
 
-> :fish: Testowa aplikacja slidera w czystym CSS
+:fish: Testowa aplikacja slidera w czystym CSS
 
-## Jak to działa?
+## Preview 🎉
 
-Demo jest dostępne tutaj: http://piecioshka.github.io/concept-css-carousel/
+https://piecioshka.github.io/concept-css-carousel/
 
-## Budowa 
+## Budowa
 
 HTML:
 
@@ -20,20 +20,20 @@ CSS:
  * `app/styles/scss/anim/simple.scss`
  * `app/styles/scss/anim/advanced.scss`
     * definiujemy `czas życia animacji`, wynoszący dwukrotność liczby obrazków,
-    * następnie każdemu obrazkowi po kolei ustawiamy `opóźnienie animacji` wynoszący wielokrotność cyfry 2. 
+    * następnie każdemu obrazkowi po kolei ustawiamy `opóźnienie animacji` wynoszący wielokrotność cyfry 2.
 
 Różnica między `simple.scss` oraz `advanced.scss` jest taka, że w tym drugim nie ma kopiowania podobnego kodu,
 tylko jest użyta pętla oraz zmienne (jest to dostępne w Sass-ie).<br/>
 Więcej o Sass http://theSassway.com/intermediate/if-for-each-while
 
-**UWAGA: przy innej liczbie obrazków niż 5, warto zaktualizować definicję animacji `fadeInOut` w pliku `common.scss`** 
+**UWAGA: przy innej liczbie obrazków niż 5, warto zaktualizować definicję animacji `fadeInOut` w pliku `common.scss`**
 
 ## Zadania projektu
 
 ```bash
 $ npm run build   # buduje nowy plik main.css
 $ npm run watch   # śledzi zmiany na plikach *.scss i buduje main.css
-$ npm run deploy  # wrzuca do branch gh-pages i pushuje na serwer
+$ npm run deploy  # wrzuca do branch gh-pages
 ```
 
 ## Kontrybucje

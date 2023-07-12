@@ -1,6 +1,6 @@
 {
     "private": true,
-    "name": "concept-css-slider",
+    "name": "demo-css-carousel",
     "version": "0.0.0",
     "scripts": {
         "build": "node tasks/build.js",
