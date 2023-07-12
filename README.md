@@ -1,6 +1,6 @@
 # demo-css-carousel
 
-:fish: Testowa aplikacja slidera w czystym CSS
+🚁 Testowa aplikacja slidera w czystym CSS
 
 ## Preview 🎉
 
