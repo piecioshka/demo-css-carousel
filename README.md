@@ -4,7 +4,7 @@
 
 ## Preview 🎉
 
-https://piecioshka.github.io/concept-css-carousel/
+https://piecioshka.github.io/demo-css-carousel/
 
 ## Budowa
 
